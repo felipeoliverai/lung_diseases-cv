@@ -1,4 +1,4 @@
-### Chest X-ray pneumonia
+### Lung Diseases 🚑
 <hr>
 <br>
 
