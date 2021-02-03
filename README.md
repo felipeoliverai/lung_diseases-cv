@@ -13,7 +13,12 @@ A team of researchers from Qatar University, Doha, Qatar, and the University of 
 <br>
 
 
-#### ResNet50
+#### ResNet50 architecture 
+
+ We using to ResNet50 architecture as a model for this case, we were thought about this architecture applied a medical image replacing some layers and make a fine tuning in this model. We've put a new layers and some made changes in the architecture by the way when come up needs in our project and fiting for the final architecture for solution.
+ 
+ 
+ 
 
 
 
