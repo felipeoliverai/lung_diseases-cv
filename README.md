@@ -13,7 +13,7 @@ A team of researchers from Qatar University, Doha, Qatar, and the University of 
 <br>
 
 
-#### ResNet50 model 
+#### ResNet50
 
 
 
