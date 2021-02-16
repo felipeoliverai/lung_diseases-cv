@@ -28,7 +28,7 @@ A team of researchers from Qatar University, Doha, Qatar, and the University of 
  
  ### AI application 📱
  
- It's a gif that shows the final application done in this project, a web app created by streamlit framework who be able the doctor sees the real diagnostic on x-ray of the pacient.
+ It's a gif that shows the final application done in this project, a web app created by streamlit framework who be able the doctor sees the real diagnostic x-ray of pacient.
  
 <br>
  
