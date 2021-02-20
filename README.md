@@ -93,15 +93,21 @@ the some steps for until inference are:
   ```sh
   $ git clone https://github.com/felipeoliverai/lung_diseases-cv.git
   ```
-3. Install requirements:
+
+3. Access folder: 
+ ```sh 
+  $ cd lung_diseases-cv
+  ```
+  
+4. Install requirements:
   ```sh 
   $ pip install -r requirements.txt
   ```
-4. Active virtual enviroment: 
+5. Active virtual enviroment: 
   ```sh
   $ venv/Scripts/activate
   ```
-5. Run application: 
+6. Run application: 
  ```sh 
  $ streamlit run app.py
  ```
