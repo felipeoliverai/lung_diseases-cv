@@ -94,8 +94,11 @@ the some steps for until inference are:
   $ git clone https://github.com/felipeoliverai/lung_diseases-cv.git
   ```
  
- 
- <br>
+
+2. Clone the repo
+   ```sh
+   git clone https://github.com/your_username_/Project-Name.git
+   ```
 
 
  
