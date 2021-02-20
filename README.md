@@ -7,13 +7,13 @@
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://github.com/felipeoliverai/lung_diseases-cv/blob/main/utils/images/gavb_logo.png" alt="Logo" width="130" height="140">
+    <img src="https://github.com/felipeoliverai/lung_diseases-cv/blob/main/utils/images/gavb_logo.png" alt="Logo" width="300" height="300">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Deep learning applied healthcare</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    An awesome AI case!
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
