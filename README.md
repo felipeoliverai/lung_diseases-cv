@@ -93,7 +93,7 @@ the some steps for until inference are:
    ```sh
    $ git clone https://github.com/felipeoliverai/lung_diseases-cv.git
    ```
-3. Install requirements
+3. Install requirements:
   ```sh 
   $ pip install -r requirements.txt
   ```
