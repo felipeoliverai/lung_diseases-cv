@@ -35,7 +35,7 @@ A team of researchers from Qatar University, Doha, Qatar, and the University of 
  
  
  
- ![Alt Text](https://github.com/felipeoliverai/lung_diseases-cv/blob/main/utils/examples/2021-02-15_21-57-10_%20(1).gif)
+ ![Alt Text](https://github.com/felipeoliverai/lung_diseases-cv/blob/main/utils/examples/2021-02-20_09-33-01_example_1.mp4)
 
 <br>
 <br>
