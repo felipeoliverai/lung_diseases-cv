@@ -98,24 +98,17 @@ the some steps for until inference are:
  ```sh 
   $ cd lung_diseases-cv
   ```
-  
-4. Update pip: 
-  ```sh
-  $ pip install --upgrade pip
-  ```
-  
-5. Install requirements:
-  ```sh 
-  $ pip install -r requirements.txt
-  ```
-6. Active virtual enviroment: 
+ 
+4. Active virtual enviroment: 
   ```sh
   $ venv/Scripts/activate
   ```
-7. Run application: 
+5. Run application: 
  ```sh 
  $ streamlit run app.py
  ```
  
 
-
+<br>
+<hr>
+<br>
