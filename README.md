@@ -75,11 +75,20 @@ the some steps for until inference are:
  * 3: the under bottom will show called "GradCAM" this button is responsible about interpretability of the prediction, it's tell us what was seen by the AI and why your choice was this. 
  
  
-<br>
-<br>
- 
- 
 
-<hr>
+ 
+ 
+<br>
+<br>
+ 
+ 
+ 
+ ### Prerequisites
+ 
+ <br>
+ 
+ 
+ 
+ 
 
 
