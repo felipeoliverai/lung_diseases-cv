@@ -40,6 +40,12 @@ A team of researchers from Qatar University, Doha, Qatar, and the University of 
 <br>
 <br>
 
+
+The application it's userful for a doctor, that can see another landscape's of the x-ray, because the AI help him to identify another disease which doctor can't saw, 
+the some steps for until inference are: 
+
+ *1: Input x-ray image 
+
 <hr>
 
 
