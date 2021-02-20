@@ -89,8 +89,7 @@ the some steps for until inference are:
  
  <br>
 1. Get the API key 
-2. Clone the reporsitory
-* clone repository 
+2. Clone the 
   ```sh 
   $ git clone https://github.com/felipeoliverai/lung_diseases-cv.git
   ```
