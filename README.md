@@ -94,9 +94,9 @@ the some steps for until inference are:
    $ git clone https://github.com/felipeoliverai/lung_diseases-cv.git
    ```
 3. Install requirements
- ```sh 
+  ```sh 
   $ pip install -r requirements.txt
-```
+  ```
 
  
 
