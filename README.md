@@ -97,7 +97,14 @@ the some steps for until inference are:
   ```sh 
   $ pip install -r requirements.txt
   ```
-
+4. Active virtual enviroment: 
+  ```sh
+  $ venv/Scripts/activate
+  ```
+5. Run application: 
+ ```sh 
+ $ streamlit run app.py
+ ```
  
 
 
