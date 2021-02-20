@@ -4,22 +4,6 @@
 
 <br>
 
-<!-- PROJECT LOGO -->
-
-<h3 align="center">Deep learning applied healthcare</h3>
-
-<p align="center">
- An awesome AI case!
- <br />
- <br />
-    <br />
-  </p>
-</p>
-
-
-<br>
-<br>
-
 
 
 
