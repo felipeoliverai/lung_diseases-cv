@@ -44,7 +44,16 @@ A team of researchers from Qatar University, Doha, Qatar, and the University of 
 The application it's userful for a doctor, that can see another landscape's of the x-ray, because the AI help him to identify another disease which doctor can't saw, 
 the some steps for until inference are: 
 
- **1**: Input x-ray image 
+ 
+ **1**: Input x-ray image at the app, right now application will be running inference for under background, consistent in a cnn called Resnet50 make prediction on the image
+ **2**: click in "Predição" in english called out "Prediction" for make prediction of image 
+ **3**: the under bottom will show called "GradCAM" this button is responsible about interpretability of the prediction, it's tell us what was seen by the AI and why your choice was this. 
+ 
+ 
+<br>
+<br>
+ 
+ 
 
 <hr>
 
