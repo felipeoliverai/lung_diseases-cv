@@ -80,14 +80,22 @@ the some steps for until inference are:
  
 <br>
 <br>
+
+
  
  
  
  ### Prerequisites
  
  <br>
+
+* clone repository 
+  ```sh
+ $ git clone https://github.com/felipeoliverai/lung_diseases-cv.git
+  ```
  
- 
+
+
  
  
 
