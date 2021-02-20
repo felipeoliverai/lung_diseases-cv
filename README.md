@@ -71,6 +71,7 @@ the some steps for until inference are:
  
  ### Prerequisites
 
+ noteworthy: You must to make this process in your own virtual enviroment.
 
 1. Get the API key [project repository](https://github.com/felipeoliverai/lung_diseases-cv)
 2. Clone the repo:
@@ -83,10 +84,11 @@ the some steps for until inference are:
   $ cd lung_diseases-cv
   ```
  
-4. Active virtual enviroment: 
+3. Install packages: 
   ```sh
-  $ venv/Scripts/activate
+  $ pip install -r requirements.txt
   ```
+  
 5. Run application: 
  ```sh 
  $ streamlit run app.py
